@@ -1,2 +1,1 @@
-# My-portfolio
-Strictly for my work description
+<[Click Here To View Website](https://livagloe.github.io/myPort/)>
